@@ -1,0 +1,1 @@
+Todos os arquivos que serão usados no treinamento 
